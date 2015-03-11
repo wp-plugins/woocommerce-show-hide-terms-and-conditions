@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: skomfare2
-Tags: woocommerce,woocommerce show terms,woocommerce products, woocommerce hide terms
+Tags: woocommerce,woocommerce show terms,woocommerce products, woocommerce hide terms , woocommerce terms , woocommerce term
 Requires at least: 3.8.1
 Tested up to: 4.1.1
 Stable tag: 1.1
